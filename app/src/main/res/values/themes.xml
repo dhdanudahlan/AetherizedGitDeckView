@@ -1,0 +1,46 @@
+<resources>
+    <!-- Light theme. -->
+    <style name="Theme.AetherizedGitDeck.Light" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/black</item> <!-- For dark-on-light text -->
+        <item name="android:textColorSecondary">@color/grey</item>
+        <item name="android:textColorPrimaryInverse">@color/white</item> <!-- For light-on-dark text -->
+        <item name="android:textColorSecondaryInverse">@color/grey</item>
+        <!-- Customize your theme here. -->
+        <item name="itemBackground">?attr/colorBackgroundFloating</item>
+        <item name="itemTextColor">?attr/colorOnBackground</item>
+    </style>
+
+    <!-- Dark theme. -->
+    <style name="Theme.AetherizedGitDeck.Dark" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_700</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/yellow</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/green</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/white</item> <!-- For light-on-dark text -->
+        <item name="android:textColorSecondary">@color/grey</item>
+        <item name="android:textColorPrimaryInverse">@color/white</item> <!-- For dark-on-light text -->
+        <item name="android:textColorSecondaryInverse">@color/grey</item>
+        <item name="android:titleTextColor">@color/yellow</item>
+        <!-- Customize your theme here. -->
+        <item name="itemBackground">?attr/colorBackgroundFloating</item>
+        <item name="itemTextColor">?attr/colorOnBackground</item>
+    </style>
+</resources>

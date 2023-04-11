@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AetherizedGitDeck</string>
+    <string name="unavailable_feature">This feature is currently under development!</string>
+    <string name="tab0">Follower</string>
+    <string name="tab1">Following</string>
+    <string name="tab3">More</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Input Keywords</string>
+    <string name="search_button">Find User</string>
+    <string name="avatar_description">User Avatar</string>
+    <string name="avatar_name">Full Name</string>
+    <string name="avatar_username">Username</string>
+    <string name="avatar_id">24052001</string>
+    <string name="avatar_followers">Follower</string>
+    <string name="avatar_following">Following</string>
+    <string name="avatar_followers_count">2405</string>
+    <string name="avatar_following_count">2001</string>
+    <string name="botNavTitle1">Favorites</string>
+    <string name="botNavTitle2">Browse</string>
+    <string name="botNavTitle3">More</string>
+    <string name="toolBarTitle1">Favorites Github User</string>
+    <string name="toolBarTitle2">Browse Github User</string>
+    <string name="toolBarTitle3">More</string>
+    <string name="addFavorites">Add to Favorites</string>
+    <string name="inFavorites">In Favorites</string>
+    <string name="added">Added to Favorites</string>
+    <string name="removed">Removed from Favorites</string>
+    <string name="unremoved">Remove Failed</string>
+
+
+    <string name="prefs_dark_light_mode">Dark/Light Mode</string>
+    <string name="prefs_dark_mode_about">Dark Mode</string>
+    <string name="prefs_light_mode_about">Light Mode</string>
+    <string name="prefs_home_page">Home Page</string>
+    <string name="prefs_home_page_about">Choose the first tab to be displayed</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_menu_item1">Settings</string>
+
+
+</resources>
