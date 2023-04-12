@@ -5,10 +5,10 @@ Users can also add their favorite Github users to their favorites list
 
 ## What are the features of this app?
 - Search for a Github user by entering keywords.
-- View Github users details.
+- View Github user details.
 - Add Github users to your favorites list.
 - Browse your favorite Github users in a grid layout.
-- Dark and Light mdoe there options.
+- Dark and Light mode theme options.
 - Homepage customization.
 
 ## How to Install the app?
@@ -36,4 +36,4 @@ git clone https://github.com/dimashdanud/Aetherized-Git-Deck.git
 4. Submit a pull request.
 
 ## Credits
-Aetherized Git Deck was developed by Dimas Humayun Danu Dahlan as a project for Dicoding Android Fundamental course.
+Aetherized Git Deck was developed by Dimas Humayun Danu Dahlan as a project to get a hands-on experience in Android Development.
